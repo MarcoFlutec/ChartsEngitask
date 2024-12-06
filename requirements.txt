@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly.express
+pyodbc
+pyodbc.connect("DRIVER={ODBC Driver 17 for SQL Server};SERVER=192.168.30.184;DATABASE=ENGITASK;UID=Admin;PWD=Root123", autocommit=True)
